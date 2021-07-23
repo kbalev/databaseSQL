@@ -1,0 +1,24 @@
+{
+  "name": "mysqlnodecli",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000m\u0000y\u0000S\u0000Q\u0000L\u0000n\u0000o\u0000d\u0000e\u0000C\u0000L\u0000I\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kbalev/mySQLnodeCLI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kbalev/mySQLnodeCLI/issues"
+  },
+  "homepage": "https://github.com/kbalev/mySQLnodeCLI#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mysql2": "^2.2.5",
+    "yargs": "^17.0.1"
+  }
+}
